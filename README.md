@@ -1,7 +1,7 @@
 # github-3.1-your-zaw
 ## Setup & Init
-- git init | To initialize existing directory as a Git Repository|
--git clone [url] | retrieve an entire repository from a hosted location via URL|
+|- git init | To initialize existing directory as a Git Repository |
+|- git clone [url] | retrieve an entire repository from a hosted location via URL|
 
 ## Stage & Snapshot
 - git status | show modified files in working directory, staged for next commit |
