@@ -1,4 +1,4 @@
-# github-3.1-zaw
+# github-3.1-nasir
 ## Setup & Init
 - git init | To initialize existing directory as a Git Repository |
 - git clone [url] | retrieve an entire repository from a hosted location via URL|
